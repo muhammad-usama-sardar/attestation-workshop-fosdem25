@@ -4,7 +4,7 @@
 
 - Date: 31st January 2025
 - Time: 13:00 - 17:00 CET
-- Location: [ULB Solbosch Campus, Brussels, Belgium](https://fosdem.org/2025/practical/transportation/)
+- Location: [ULB Solbosch Campus, Brussels, Belgium](https://fosdem.org/2025/practical/transportation/), S.UA5: building U, entrance A, same as “Muséum de Zoologie et d’Anthropologie de l’ULB” but on the 5th floor (at [BEAMS/Cybersecurity Research Centre](https://cybersecurity.ulb.ac.be/))
 - Current plan: **in-person only** (we are checking the possibility of virtual participation)
 
 ## Formats 
