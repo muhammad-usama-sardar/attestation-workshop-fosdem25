@@ -35,7 +35,7 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 29. Anastassios Nanos
 30. Tom Godden
 31. Apolline Zehner
-
+32. Andrew Campbell
 
 ## Tentative Participants
 (Please add your name at the **end** of this list if you are planning to attend **in-person** but not sure yet)
