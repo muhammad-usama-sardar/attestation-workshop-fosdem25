@@ -48,6 +48,7 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 (Please add your name at the **end** of this list if you are planning to attend **online**)
 1. Yuxuan Song
 2. Dionna Glaze (starting from 19:00 for the endorsement API discussion)
+3. Venkat Nilesh Dadi
 
 ## Agenda
 Please add your name and topic in the table below if you would like to present. (You may add at the end of the table, and we will see where it fits in the agenda)
@@ -64,7 +65,7 @@ Please add your name and topic in the table below if you would like to present. 
 | Muhammad Usama Sardar | Attested TLS and Formalization | [Paper](https://www.researchgate.net/publication/385384309_Towards_Validation_of_TLS_13_Formal_Model_and_Vulnerabilities_in_Intel's_RA-TLS_Protocol); [formalization](https://github.com/CCC-Attestation/formal-spec-TEE); [slides etc.](https://github.com/CCC-Attestation/formal-spec-KBS) | [Specs](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/) | [Implementation](https://github.com/ccc-attestation/attested-tls-poc) | 30 |
 | Anastassios Nanos | Secure Cloud-Native IoT: Onboarding, OTA Update, and Device Repurposing with OpenDICE in k8s | Presentation / Discussion about IoT application attestation |  |  | 20 |
 | Yuxuan SONG | Remote Attestation for Constrained IoT Use Cases | [IETF draft](https://datatracker.ietf.org/doc/draft-song-lake-ra/) | | [Attester(DotBot running on nRF5340)](https://github.com/ysong02/DotBot-firmware/blob/only-attestation-Nov/projects/03app_dotbot/03app_dotbot.c) , [Relying Party](https://github.com/ysong02/PyDotBot/tree/demo-remote-attestation), [Verifier](https://github.com/ysong02/dotbot-authority/tree/attestation-demo-video) | 15 |
-
+| Venkat Nilesh Dadi | Confidential Federated Learning : A Case study in Healthcare Deployment | The slides are still in progress but they will focus on challenges, solution, architecture, future opportunities |  | | 25 |
 
 
 
