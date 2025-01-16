@@ -56,6 +56,7 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 3. Giri Mandyam (Pacific time zone)
 4. Eduardo Cabre (Endorsement API)
 5. Marc-André Lureau
+6. lecaf
 
 ## Agenda
 Please add your name and topic in the table below if you would like to present. (You may add at the end of the table, and we will see where it fits in the agenda)
