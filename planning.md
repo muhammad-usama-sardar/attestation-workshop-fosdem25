@@ -30,8 +30,7 @@ If you are not attending in-person due to any reason, please remove your name fr
 26. Aurélien Chassagne
 27. Oscar Van Slijpe
 28. Anastassios Nanos
-29. Tom Godden
-30. Apolline Zehner
+29. Apolline Zehner
 
 ## Waiting List 
 If a spot becomes available, we will move your name to the confirmed participants. You are very welcome to join online. 
@@ -63,6 +62,7 @@ Please add your name at the **end** of this list if you are planning to attend *
 8. Georges Papadopoulos
 9. Jun Zhang
 10. Ahmad Khalifeh (Central time zone)
+11. Tom Godden
 
 ## Agenda
 Please add your name and topic in the table below if you would like to present. (You may add at the end of the table, and we will see where it fits in the agenda)
