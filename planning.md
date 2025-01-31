@@ -47,7 +47,6 @@ Please add your name at the **end** of this list if you are planning to attend *
 1. Mike Schwartz
 2. Martina Kannen
 3. Lena Oden
-4. Sam Van de Velde
 5. Marcin Cieślak
 6. Kai Jansen
     
@@ -63,6 +62,7 @@ Please add your name at the **end** of this list if you are planning to attend *
 8. Georges Papadopoulos
 9. Jun Zhang
 10. Ahmad Khalifeh (Central time zone)
+11. Sam Van de Velde
 
 ## Agenda
 Please add your name and topic in the table below if you would like to present. (You may add at the end of the table, and we will see where it fits in the agenda)
