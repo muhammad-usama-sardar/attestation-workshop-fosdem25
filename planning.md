@@ -21,7 +21,7 @@ If you are not attending in-person due to any reason, please remove your name fr
 17. Anderson Sasaki
 18. Michael Prantl
 19. Ijlal Loutfi
-20. Gilang Hamidy
+~20. Gilang Hamidy~
 21. Wiktor Kwapisiewicz
 22. Cédrick Austa
 23. Navid Ladner
@@ -63,6 +63,7 @@ Please add your name at the **end** of this list if you are planning to attend *
 8. Georges Papadopoulos
 9. Jun Zhang
 10. Ahmad Khalifeh (Central time zone)
+11. Gilang Hamidy
 
 ## Agenda
 Please add your name and topic in the table below if you would like to present. (You may add at the end of the table, and we will see where it fits in the agenda)
